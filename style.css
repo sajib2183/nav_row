@@ -1,0 +1,39 @@
+body{
+    background-image: url("img/slide1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.pic{
+    background-color: transparent;
+}
+.white{
+    color: white;
+    font-weight: 400;
+}
+.green{
+    background-color:#3FC35F;
+    width: 30%;
+    height: 2px;
+    position:absolute;
+    top:20px;
+}
+li{
+    text-decoration: none;
+}
+.WHITE{
+    background-color:#3FC35F;
+    width: 40%;
+    height: 2px;
+    position:absolute;
+    top:20px;
+}
+.YELLOW{
+    background-color:#3FC35F;
+    width: 35%;
+    height: 2px;
+    position:absolute;
+    top:20px;
+}
+li{
+    list-style-type: none;
+}
